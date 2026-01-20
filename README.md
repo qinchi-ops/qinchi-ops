@@ -12,11 +12,11 @@
 
 <div align="center">
 
-![Qinchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qinchi&show_icons=true&theme=github_dark&hide_border=true&card_width=500&include_all_commits=true&count_private=true)
+![Qinchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=qinchi-ops&show_icons=true&theme=github_dark&hide_border=true&card_width=500&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qinchi&layout=compact&theme=github_dark&hide_border=true&card_width=500)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qinchi-ops&layout=compact&theme=github_dark&hide_border=true&card_width=500)
 
-![GitHub Streak](https://github-streak-stats.herokuapp.com/?user=Qinchi&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://github-streak-stats.herokuapp.com/?user=qinchi-ops&theme=github-dark-blue&hide_border=true)
 
 </div>
 
@@ -60,11 +60,11 @@
 ### ⭐ Most Starred Repositories
 
 <a href="https://github.com/Qinchi/awesome-project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qinchi&repo=awesome-project-1&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qinchi-ops&repo=awesome-project-1&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/Qinchi/awesome-project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qinchi&repo=awesome-project-2&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qinchi-ops&repo=awesome-project-2&theme=github_dark&hide_border=true" />
 </a>
 
 </div>
