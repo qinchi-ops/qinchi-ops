@@ -92,6 +92,16 @@
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/qinchi-ops/qinchi-ops/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
