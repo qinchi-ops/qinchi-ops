@@ -1,0 +1,30 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    # Run every day at 0 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-blog-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: BLOG-POST-LIST
+          feed_list: "https://qinchi-ops.github.io/feed.xml"
+          max_post_count: 5
+          template: |
+            - [$title]($url)
+          commit_message: "Update blog posts"
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
